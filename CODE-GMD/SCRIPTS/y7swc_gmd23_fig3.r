@@ -16,7 +16,7 @@
 
 ## FIG 3 # CO2 R +METEO seasonal ######################################################################################
 
-#functions for fig 2
+#functions for fig 3
 # extract copy/edit from the code below
 plot.rn.9 <- function(i) {
   #for(i in 1:9){
